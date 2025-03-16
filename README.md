@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArpanGiri
 - 👀 I’m interested in Geospatial Service
-- 🌱 I’m currently learning PostGres and SQL
+- 🌱 I’m currently learning PostGres, SQL anf Full Stack Development 
 - 💞️ I’m looking to collaborate on Geospatial field
 - 📫 reach me at  giriarpan81@gmail.com
 
