@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "speciality": "Cardiologist",
+    "name": "Dr. Arjun Mehta",
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "speciality": "Dermatologist",
+    "name": "Dr. Priya Sharma",
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "speciality": "Orthopedic",
+    "name": "Dr. Ramesh Nair",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "speciality": "Pediatrician",
+    "name": "Dr. Sneha Kapoor",
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "speciality": "Neurologist",
+    "name": "Dr. Vikram Sinha",
+    "rating": 4.4
+  },
+  {
+    "id": 6,
+    "speciality": "Psychiatrist",
+    "name": "Dr. Neha Verma",
+    "rating": 4.3
+  },
+  {
+    "id": 7,
+    "speciality": "Dentist",
+    "name": "Dr. Rajesh Khanna",
+    "rating": 4.9
+  },
+  {
+    "id": 8,
+    "speciality": "ENT Specialist",
+    "name": "Dr. Kavita Rao",
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "speciality": "General Physician",
+    "name": "Dr. Manish Gupta",
+    "rating": 4.2
+  },
+  {
+    "id": 10,
+    "speciality": "Gynecologist",
+    "name": "Dr. Shalini Deshmukh",
+    "rating": 4.7
+  },
+  {
+    "id": 11,
+    "speciality": "Oncologist",
+    "name": "Dr. Aditya Menon",
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "speciality": "Nephrologist",
+    "name": "Dr. Ritu Agarwal",
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "speciality": "Pulmonologist",
+    "name": "Dr. Ashok Pillai",
+    "rating": 4.4
+  },
+  {
+    "id": 14,
+    "speciality": "Endocrinologist",
+    "name": "Dr. Sunita Joshi",
+    "rating": 4.3
+  },
+  {
+    "id": 15,
+    "speciality": "Urologist",
+    "name": "Dr. Anil Kumar",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "speciality": "Rheumatologist",
+    "name": "Dr. Meera Iyer",
+    "rating": 4.2
+  },
+  {
+    "id": 17,
+    "speciality": "Ophthalmologist",
+    "name": "Dr. Kiran Patil",
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "speciality": "Plastic Surgeon",
+    "name": "Dr. Rohit Shetty",
+    "rating": 4.6
+  },
+  {
+    "id": 19,
+    "speciality": "Hematologist",
+    "name": "Dr. Pooja Banerjee",
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "speciality": "Gastroenterologist",
+    "name": "Dr. Naveen Kulkarni",
+    "rating": 4.7
+  }
+]
