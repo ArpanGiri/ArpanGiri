@@ -3,120 +3,116 @@
     "id": 1,
     "speciality": "Cardiologist",
     "name": "Dr. Arjun Mehta",
-    "rating": 4.7
+    "rating": 4.7,
+    "years_of_experience": 15,
+    "birth_city": "Mumbai",
+    "email": "arjun.mehta@healthcare.com",
+    "phone_number": "+91-9876543210",
+    "specialization_details": "Expert in interventional cardiology and heart failure management.",
+    "servicing_area": "Mumbai, Navi Mumbai, Thane"
   },
   {
     "id": 2,
     "speciality": "Dermatologist",
     "name": "Dr. Priya Sharma",
-    "rating": 4.5
+    "rating": 4.5,
+    "years_of_experience": 12,
+    "birth_city": "Delhi",
+    "email": "priya.sharma@healthcare.com",
+    "phone_number": "+91-9876501234",
+    "specialization_details": "Specializes in acne, cosmetic dermatology, and skin allergy treatments.",
+    "servicing_area": "Delhi NCR, Gurugram, Noida"
   },
   {
     "id": 3,
     "speciality": "Orthopedic",
     "name": "Dr. Ramesh Nair",
-    "rating": 4.6
+    "rating": 4.6,
+    "years_of_experience": 18,
+    "birth_city": "Chennai",
+    "email": "ramesh.nair@healthcare.com",
+    "phone_number": "+91-9812345678",
+    "specialization_details": "Specialist in joint replacement surgeries and sports injuries.",
+    "servicing_area": "Chennai, Coimbatore, Pondicherry"
   },
   {
     "id": 4,
     "speciality": "Pediatrician",
     "name": "Dr. Sneha Kapoor",
-    "rating": 4.8
+    "rating": 4.8,
+    "years_of_experience": 10,
+    "birth_city": "Bengaluru",
+    "email": "sneha.kapoor@healthcare.com",
+    "phone_number": "+91-9823456789",
+    "specialization_details": "Focused on child health, vaccinations, and developmental pediatrics.",
+    "servicing_area": "Bengaluru, Mysuru"
   },
   {
     "id": 5,
     "speciality": "Neurologist",
     "name": "Dr. Vikram Sinha",
-    "rating": 4.4
+    "rating": 4.4,
+    "years_of_experience": 14,
+    "birth_city": "Kolkata",
+    "email": "vikram.sinha@healthcare.com",
+    "phone_number": "+91-9834567890",
+    "specialization_details": "Expert in stroke management, epilepsy, and neurodegenerative diseases.",
+    "servicing_area": "Kolkata, Howrah, Durgapur"
   },
   {
     "id": 6,
     "speciality": "Psychiatrist",
     "name": "Dr. Neha Verma",
-    "rating": 4.3
+    "rating": 4.3,
+    "years_of_experience": 9,
+    "birth_city": "Lucknow",
+    "email": "neha.verma@healthcare.com",
+    "phone_number": "+91-9845678901",
+    "specialization_details": "Focuses on anxiety, depression, and behavioral therapy.",
+    "servicing_area": "Lucknow, Kanpur"
   },
   {
     "id": 7,
     "speciality": "Dentist",
     "name": "Dr. Rajesh Khanna",
-    "rating": 4.9
+    "rating": 4.9,
+    "years_of_experience": 20,
+    "birth_city": "Jaipur",
+    "email": "rajesh.khanna@healthcare.com",
+    "phone_number": "+91-9856789012",
+    "specialization_details": "Specialist in cosmetic dentistry, implants, and orthodontics.",
+    "servicing_area": "Jaipur, Udaipur"
   },
   {
     "id": 8,
     "speciality": "ENT Specialist",
     "name": "Dr. Kavita Rao",
-    "rating": 4.6
+    "rating": 4.6,
+    "years_of_experience": 11,
+    "birth_city": "Pune",
+    "email": "kavita.rao@healthcare.com",
+    "phone_number": "+91-9867890123",
+    "specialization_details": "Expert in sinus surgeries, tonsil treatment, and voice therapy.",
+    "servicing_area": "Pune, Satara, Nashik"
   },
   {
     "id": 9,
     "speciality": "General Physician",
     "name": "Dr. Manish Gupta",
-    "rating": 4.2
+    "rating": 4.2,
+    "years_of_experience": 8,
+    "birth_city": "Ahmedabad",
+    "email": "manish.gupta@healthcare.com",
+    "phone_number": "+91-9878901234",
+    "specialization_details": "Provides preventive care, chronic illness management, and general treatments.",
+    "servicing_area": "Ahmedabad, Gandhinagar"
   },
   {
     "id": 10,
     "speciality": "Gynecologist",
     "name": "Dr. Shalini Deshmukh",
-    "rating": 4.7
-  },
-  {
-    "id": 11,
-    "speciality": "Oncologist",
-    "name": "Dr. Aditya Menon",
-    "rating": 4.5
-  },
-  {
-    "id": 12,
-    "speciality": "Nephrologist",
-    "name": "Dr. Ritu Agarwal",
-    "rating": 4.6
-  },
-  {
-    "id": 13,
-    "speciality": "Pulmonologist",
-    "name": "Dr. Ashok Pillai",
-    "rating": 4.4
-  },
-  {
-    "id": 14,
-    "speciality": "Endocrinologist",
-    "name": "Dr. Sunita Joshi",
-    "rating": 4.3
-  },
-  {
-    "id": 15,
-    "speciality": "Urologist",
-    "name": "Dr. Anil Kumar",
-    "rating": 4.5
-  },
-  {
-    "id": 16,
-    "speciality": "Rheumatologist",
-    "name": "Dr. Meera Iyer",
-    "rating": 4.2
-  },
-  {
-    "id": 17,
-    "speciality": "Ophthalmologist",
-    "name": "Dr. Kiran Patil",
-    "rating": 4.8
-  },
-  {
-    "id": 18,
-    "speciality": "Plastic Surgeon",
-    "name": "Dr. Rohit Shetty",
-    "rating": 4.6
-  },
-  {
-    "id": 19,
-    "speciality": "Hematologist",
-    "name": "Dr. Pooja Banerjee",
-    "rating": 4.4
-  },
-  {
-    "id": 20,
-    "speciality": "Gastroenterologist",
-    "name": "Dr. Naveen Kulkarni",
-    "rating": 4.7
-  }
-]
+    "rating": 4.7,
+    "years_of_experience": 16,
+    "birth_city": "Nagpur",
+    "email": "shalini.deshmukh@healthcare.com",
+    "p
